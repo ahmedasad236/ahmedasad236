@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedasad236&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedasad236" /> </p>
 
-- 🔭 I’m currently working in [Master Micro](https://www.linkedin.com/company/master-micro/)
-
-- 🌱 I’m currently learning **OS, Microprocessors**
+- 🌱 I’m currently learning **Back-end, NodeJs and Networking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedasad236](https://github.com/ahmedasad236)
 
-- 💬 Ask me about **C++, Assembly, Java, OOP, Datastructures, Microprocessors**
+- 💬 Ask me about **C++, Assembly, Java, OOP, Datastructures, Microprocessors, JavaScript**
 
 - 📫 How to reach me **ahmedasad236@gmail.com**
 
