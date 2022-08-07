@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedasad236&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedasad236" /> </p>
 
-- 🌱 I’m currently learning **Back-end, NodeJs and Networking**
+- 🌱 I’m currently learning **Front-end, React and Networking**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedasad236](https://github.com/ahmedasad236)
 
